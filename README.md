@@ -4,7 +4,7 @@ Hi 👋 My name is Steven Hua
 Nice to meet you! I'm currently a second year student studying Computer Science at Carleton University. Ever since I took my first programming course back in high school, I've been amazed with the field of software development and the limitless opportunities it provides. When I'm not doing schoolwork and programming, you can usually find me out hanging with friends, going on photoshoot sessions, road biking, or watching Fresh off the Boat!
 
 * 🌍  I'm based in Ottawa, Canada
-* ✉️  You can contact me at [steven.alex.hua@gmail.com](mailto:steven.alex.hua@gmail.com)
+* ✉️  You can contact me at [stevenhua@cmail.carleton.ca](mailto:stevenhua@cmail.carleton.ca)
 * 🚀  I'm currently working on [Photopia](http://dronehunter360.github.io/photopia/)
 * 🧠  I'm learning React, TypeScript, Bootstrap
 * ⚡  I can solve a Rubik's Cube under 30 seconds
