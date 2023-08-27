@@ -5,8 +5,8 @@ Nice to meet you! I'm currently a second year student studying Computer Science 
 
 * 🌍  I'm based in Ottawa, Canada
 * ✉️  You can contact me at [stevenhua@cmail.carleton.ca](mailto:stevenhua@cmail.carleton.ca)
-* 🚀  I'm currently working on [Photopia](http://dronehunter360.github.io/photopia/)
-* 🧠  I'm learning Angular, TypeScript
+* 🚀  I'm currently working on [iMessagify](https://imessagify.netlify.app/)
+* 🧠  I'm learning React, TypeScript
 * ⚡  I can solve a Rubik's Cube in under 30 seconds
 
 ### Skills
